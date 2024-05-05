@@ -1,0 +1,46 @@
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-source
+'11'
+-sourcepath
+'/Users/haydenamarr/eclipse-workspace/calculator/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2021. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'/Users/haydenamarr/eclipse-workspace/calculator/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'Calculator 0.0.1-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/en/java/javase/11/docs/api' '/Users/haydenamarr/eclipse-workspace/calculator/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'Calculator 0.0.1-SNAPSHOT API'
+calculator
+/Users/haydenamarr/eclipse-workspace/calculator/src/main/java/.DS_Store = 1638547606379
+/Users/haydenamarr/eclipse-workspace/calculator/src/main/java = 1638962091026
+/Users/haydenamarr/eclipse-workspace/calculator/target/site/apidocs/tag-search-index.js = 1638962515610
+/Users/haydenamarr/eclipse-workspace/calculator/target/site/apidocs/overview-tree.html = 1638962515601
+/Users/haydenamarr/eclipse-workspace/calculator/target/site/apidocs/module-search-index.js = 1638962515610
+/Users/haydenamarr/eclipse-workspace/calculator/target/site/apidocs/index.html = 1638962515617
+/Users/haydenamarr/eclipse-workspace/calculator/target/site/apidocs/package-search-index.js = 1638962515610
+/Users/haydenamarr/eclipse-workspace/calculator/target/site/apidocs/jquery-ui.overrides.css = 1638962515625
+/Users/haydenamarr/eclipse-workspace/calculator/target/site/apidocs/serialized-form.html = 1638962515570
+/Users/haydenamarr/eclipse-workspace/calculator/target/site/apidocs/index-all.html = 1638962515617
+/Users/haydenamarr/eclipse-workspace/calculator/target/site/apidocs/allpackages-index.html = 1638962515609
+/Users/haydenamarr/eclipse-workspace/calculator/target/site/apidocs/member-search-index.js = 1638962515610
+/Users/haydenamarr/eclipse-workspace/calculator/target/site/apidocs/script.js = 1638962515620
+/Users/haydenamarr/eclipse-workspace/calculator/target/site/apidocs/stylesheet.css = 1638962515620
+/Users/haydenamarr/eclipse-workspace/calculator/target/site/apidocs/help-doc.html = 1638962515619
+/Users/haydenamarr/eclipse-workspace/calculator/target/site/apidocs/element-list = 1638962515558
+/Users/haydenamarr/eclipse-workspace/calculator/target/site/apidocs/allclasses-index.html = 1638962515608
+/Users/haydenamarr/eclipse-workspace/calculator/target/site/apidocs/type-search-index.js = 1638962515610
+/Users/haydenamarr/eclipse-workspace/calculator/target/site/apidocs/search.js = 1638962515621

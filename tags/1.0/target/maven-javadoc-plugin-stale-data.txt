@@ -1,0 +1,46 @@
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-source
+'11'
+-sourcepath
+'/Users/haydenamarr/eclipse-workspace/infix/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2021. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'/Users/haydenamarr/eclipse-workspace/infix/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'Calculator 0.0.1-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/en/java/javase/11/docs/api' '/Users/haydenamarr/eclipse-workspace/infix/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'Calculator 0.0.1-SNAPSHOT API'
+calculator
+/Users/haydenamarr/eclipse-workspace/infix/src/main/java/.DS_Store = 1637276289369
+/Users/haydenamarr/eclipse-workspace/infix/src/main/java = 1637210913025
+/Users/haydenamarr/eclipse-workspace/infix/target/site/apidocs/tag-search-index.js = 1637300162499
+/Users/haydenamarr/eclipse-workspace/infix/target/site/apidocs/overview-tree.html = 1637300162492
+/Users/haydenamarr/eclipse-workspace/infix/target/site/apidocs/module-search-index.js = 1637300162498
+/Users/haydenamarr/eclipse-workspace/infix/target/site/apidocs/index.html = 1637300162505
+/Users/haydenamarr/eclipse-workspace/infix/target/site/apidocs/package-search-index.js = 1637300162499
+/Users/haydenamarr/eclipse-workspace/infix/target/site/apidocs/jquery-ui.overrides.css = 1637300162512
+/Users/haydenamarr/eclipse-workspace/infix/target/site/apidocs/serialized-form.html = 1637300162473
+/Users/haydenamarr/eclipse-workspace/infix/target/site/apidocs/index-all.html = 1637300162504
+/Users/haydenamarr/eclipse-workspace/infix/target/site/apidocs/allpackages-index.html = 1637300162498
+/Users/haydenamarr/eclipse-workspace/infix/target/site/apidocs/member-search-index.js = 1637300162499
+/Users/haydenamarr/eclipse-workspace/infix/target/site/apidocs/script.js = 1637300162507
+/Users/haydenamarr/eclipse-workspace/infix/target/site/apidocs/stylesheet.css = 1637300162507
+/Users/haydenamarr/eclipse-workspace/infix/target/site/apidocs/help-doc.html = 1637300162506
+/Users/haydenamarr/eclipse-workspace/infix/target/site/apidocs/element-list = 1637300162464
+/Users/haydenamarr/eclipse-workspace/infix/target/site/apidocs/allclasses-index.html = 1637300162497
+/Users/haydenamarr/eclipse-workspace/infix/target/site/apidocs/type-search-index.js = 1637300162499
+/Users/haydenamarr/eclipse-workspace/infix/target/site/apidocs/search.js = 1637300162508

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.42">
+<file name="/Users/haydenamarr/eclipse-workspace/GUI/GUI/src/main/java/calculator/DriverMain.java">
+</file>
+<file name="/Users/haydenamarr/eclipse-workspace/GUI/GUI/src/main/java/calculator/ViewInterface.java">
+</file>
+<file name="/Users/haydenamarr/eclipse-workspace/GUI/GUI/src/main/java/calculator/Type.java">
+</file>
+<file name="/Users/haydenamarr/eclipse-workspace/GUI/GUI/src/main/java/calculator/InvalidExpressionException.java">
+</file>
+<file name="/Users/haydenamarr/eclipse-workspace/GUI/GUI/src/main/java/calculator/OpStack.java">
+</file>
+<file name="/Users/haydenamarr/eclipse-workspace/GUI/GUI/src/main/java/calculator/NumStack.java">
+</file>
+<file name="/Users/haydenamarr/eclipse-workspace/GUI/GUI/src/main/java/calculator/CalcController.java">
+</file>
+<file name="/Users/haydenamarr/eclipse-workspace/GUI/GUI/src/main/java/calculator/Driver.java">
+</file>
+<file name="/Users/haydenamarr/eclipse-workspace/GUI/GUI/src/main/java/calculator/StrStack.java">
+</file>
+<file name="/Users/haydenamarr/eclipse-workspace/GUI/GUI/src/main/java/calculator/CalControllerInterface.java">
+</file>
+<file name="/Users/haydenamarr/eclipse-workspace/GUI/GUI/src/main/java/calculator/StandardCalc.java">
+</file>
+<file name="/Users/haydenamarr/eclipse-workspace/GUI/GUI/src/main/java/calculator/OpType.java">
+</file>
+<file name="/Users/haydenamarr/eclipse-workspace/GUI/GUI/src/main/java/calculator/RevPolishCalc.java">
+</file>
+<file name="/Users/haydenamarr/eclipse-workspace/GUI/GUI/src/main/java/calculator/AsciiView.java">
+</file>
+<file name="/Users/haydenamarr/eclipse-workspace/GUI/GUI/src/main/java/calculator/Symbol.java">
+</file>
+<file name="/Users/haydenamarr/eclipse-workspace/GUI/GUI/src/main/java/calculator/Calculator.java">
+</file>
+<file name="/Users/haydenamarr/eclipse-workspace/GUI/GUI/src/main/java/calculator/BadTypeException.java">
+</file>
+<file name="/Users/haydenamarr/eclipse-workspace/GUI/GUI/src/main/java/calculator/Observer.java">
+</file>
+<file name="/Users/haydenamarr/eclipse-workspace/GUI/GUI/src/main/java/calculator/Model.java">
+</file>
+<file name="/Users/haydenamarr/eclipse-workspace/GUI/GUI/src/main/java/calculator/Entry.java">
+</file>
+<file name="/Users/haydenamarr/eclipse-workspace/GUI/GUI/src/main/java/calculator/Stack.java">
+</file>
+</checkstyle>

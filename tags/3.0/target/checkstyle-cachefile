@@ -1,0 +1,25 @@
+#Fri Dec 10 22:00:43 GMT 2021
+/Users/haydenamarr/eclipse-workspace/GUI/GUI/src/main/java/calculator/StrStack.java=1639172627812
+/Users/haydenamarr/eclipse-workspace/GUI/GUI/src/main/java/calculator/OpType.java=1639172627800
+/Users/haydenamarr/eclipse-workspace/GUI/GUI/src/main/java/calculator/RevPolishCalc.java=1639172627803
+/Users/haydenamarr/eclipse-workspace/GUI/GUI/src/main/java/calculator/Type.java=1639172627816
+/Users/haydenamarr/eclipse-workspace/GUI/GUI/src/main/java/calculator/Driver.java=1639173016606
+/Users/haydenamarr/eclipse-workspace/GUI/GUI/src/main/java/calculator/BadTypeException.java=1639172627756
+/Users/haydenamarr/eclipse-workspace/GUI/GUI/src/main/java/calculator/NumStack.java=1639172627791
+/Users/haydenamarr/eclipse-workspace/GUI/GUI/src/main/java/calculator/Stack.java=1639172627805
+/Users/haydenamarr/eclipse-workspace/GUI/GUI/src/main/java/calculator/ViewInterface.java=1639172627818
+/Users/haydenamarr/eclipse-workspace/GUI/GUI/src/main/java/calculator/OpStack.java=1639172627796
+/Users/haydenamarr/eclipse-workspace/GUI/GUI/src/main/java/calculator/CalcController.java=1639173344107
+configuration*?=8E1C1EF5171900ED3BB41150B5B5324D893E3A3E
+/Users/haydenamarr/eclipse-workspace/GUI/GUI/src/main/java/calculator/AsciiView.java=1639173398907
+/Users/haydenamarr/eclipse-workspace/GUI/GUI/src/main/java/calculator/Symbol.java=1639172627814
+/Users/haydenamarr/eclipse-workspace/GUI/GUI/src/main/java/calculator/StandardCalc.java=1639172627809
+/Users/haydenamarr/eclipse-workspace/GUI/GUI/src/main/java/calculator/Observer.java=1639172627793
+/Users/haydenamarr/eclipse-workspace/GUI/GUI/src/main/java/calculator/Calculator.java=1639173001997
+/Users/haydenamarr/eclipse-workspace/GUI/GUI/src/main/java/calculator/DriverMain.java=1639172627770
+module-resource*?\:checkstyle-xpath-suppressions.xml=DF8DC9A0516BF3F1DDF49EBD2B721B3DE22759B0
+module-resource*?\:checkstyle-suppressions.xml=E26C3D3AA848BDF0C6A434215ACCCF652B943A53
+/Users/haydenamarr/eclipse-workspace/GUI/GUI/src/main/java/calculator/Entry.java=1639172627776
+/Users/haydenamarr/eclipse-workspace/GUI/GUI/src/main/java/calculator/CalControllerInterface.java=1639172627759
+/Users/haydenamarr/eclipse-workspace/GUI/GUI/src/main/java/calculator/InvalidExpressionException.java=1639172627785
+/Users/haydenamarr/eclipse-workspace/GUI/GUI/src/main/java/calculator/Model.java=1639173620538

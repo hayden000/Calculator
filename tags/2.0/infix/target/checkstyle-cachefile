@@ -1,0 +1,17 @@
+#Sat Nov 27 02:02:22 GMT 2021
+configuration*?=8E71ECC759DAC4A162292865FED1F0FFF5A9E449
+/Users/haydenamarr/eclipse-workspace/infix/src/main/java/calculator/BadTypeException.java=1637160669440
+/Users/haydenamarr/eclipse-workspace/infix/src/main/java/calculator/DriverMain.java=1637978529451
+/Users/haydenamarr/eclipse-workspace/infix/src/main/java/calculator/Symbol.java=1637701648834
+/Users/haydenamarr/eclipse-workspace/infix/src/main/java/calculator/Entry.java=1637160669443
+/Users/haydenamarr/eclipse-workspace/infix/src/main/java/calculator/StandardCalc.java=1637975777445
+/Users/haydenamarr/eclipse-workspace/infix/src/main/java/calculator/InvalidExpressionException.java=1637160669444
+/Users/haydenamarr/eclipse-workspace/infix/src/main/java/calculator/Type.java=1637160669459
+/Users/haydenamarr/eclipse-workspace/infix/src/main/java/calculator/StrStack.java=1637160669454
+/Users/haydenamarr/eclipse-workspace/infix/src/main/java/calculator/OpStack.java=1637160669446
+module-resource*?\:checkstyle-xpath-suppressions.xml=DF8DC9A0516BF3F1DDF49EBD2B721B3DE22759B0
+module-resource*?\:checkstyle-suppressions.xml=E26C3D3AA848BDF0C6A434215ACCCF652B943A53
+/Users/haydenamarr/eclipse-workspace/infix/src/main/java/calculator/NumStack.java=1637907650243
+/Users/haydenamarr/eclipse-workspace/infix/src/main/java/calculator/Stack.java=1637170493787
+/Users/haydenamarr/eclipse-workspace/infix/src/main/java/calculator/RevPolishCalc.java=1637907650235
+/Users/haydenamarr/eclipse-workspace/infix/src/main/java/calculator/Calculator.java=1637975407498

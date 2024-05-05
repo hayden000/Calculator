@@ -1,0 +1,18 @@
+Change-log 
+
+Version - 1.0 
+
+This version of the calculator has a working version of the reverse polish calculator and can perform simple calculations. Contains a jar file for the client to run and test with their own calculations from the command line. 
+
+
+Version - 2.0 
+
+The shunting yard algorithm has now been implemented and the calculator can now work out infix and postfix expressions. This can also be tested from the command line. 
+
+Version - 3.0
+
+An ASCII view has now been made and the calculator is able to detect if the input expression is in reverse polish notation or standard notation so, this does not have to be entered by the user. 
+
+Version - 3.1
+
+Added the singleton design pattern to the reverse Polish calculator. 
